@@ -21,8 +21,6 @@ Research
 
 If you find our work is helpful for your research, we would very appreciate if you cite our paper.
 
-.. code::
-
     @inproceedings{katharopoulos2019ats,
         title={The Synthinel-1 dataset: a collection of high resolution synthetic overhead imagery for building segmentation},
         author={Fanjie Kong, Bohao Huang, Kyle Bradbury, Jordan Malof},
