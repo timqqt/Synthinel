@@ -2,8 +2,8 @@
 This is a repository for synthetic overhead imagery dataset - Synthinel.
 
 Download the dataset here. https://drive.google.com/open?id=1T2fO-VLfyQoQdy5C4at_uHkP0KBRZkit
-<img src="Externels/examples.gif" alt="examples" 
-align=center>
+<div align=center><img src="Externels/examples.gif" alt="examples" 
+align=center></div>
 ## About Synthinel
 Synthinel is a collection of synthetic overhead imagery for building segmentation, with pixel-wise ground truth. The dataset is extracted from CityEngine.
 
