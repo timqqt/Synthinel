@@ -22,7 +22,7 @@ Research
 
 If you find our work is helpful for your research, we would very appreciate if you cite our paper.
 
-    @inproceedings{katharopoulos2019ats,
+    @inproceedings{synthinel2020,
         title={The Synthinel-1 dataset: a collection of high resolution synthetic overhead imagery for building segmentation},
         author={Fanjie Kong, Bohao Huang, Kyle Bradbury, Jordan Malof},
         booktitle={2020 Winter Conference on Applications of Computer Vision (WACV)},
