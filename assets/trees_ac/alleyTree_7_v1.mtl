@@ -1,0 +1,7 @@
+newmtl lambert188SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd alleyTree_7_v1.tif
+Ni 1.00
