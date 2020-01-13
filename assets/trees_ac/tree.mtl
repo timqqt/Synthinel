@@ -1,0 +1,13 @@
+newmtl lambert2SG
+illum 4
+Kd 0.40 0.27 0.18
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tree_texture.png
+Ni 1.00

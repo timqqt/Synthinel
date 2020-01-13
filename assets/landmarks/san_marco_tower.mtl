@@ -1,0 +1,21 @@
+newmtl model_material_1_2_8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texture0.jpg
+Ni 1.00
+newmtl model_material_11_15_8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texture6.jpg
+Ni 1.00
+newmtl model_material_12_6_8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texture3.png
+Ni 1.00
