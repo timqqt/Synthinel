@@ -1,0 +1,6 @@
+newmtl Chipped
+Ka 0 0 0
+Ns 1
+Ks 0 0 0
+Kd 0.655482 0.542562 0.439764
+map_Kd Chipped.bmp
