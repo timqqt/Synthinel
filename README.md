@@ -12,6 +12,7 @@ Synthinel is a collection of synthetic overhead imagery for building segmentatio
 ### Examples
 <div align=center><img src="Externels/examples.png" alt="examples" 
 align=center></div>
+
 ### Dependencies
 
 The dependencies to run the codes are 
@@ -32,3 +33,9 @@ If you find our work is helpful for your research, we would very appreciate if y
         booktitle={2020 Winter Conference on Applications of Computer Vision (WACV)},
         year={2020}
     }
+    
+    
+   
+### Research Logs
+
+- Find some ground truths are not aligned with objects well. This is caused by the light variations in images for extracting ground truths. This can be fixed by changing the light angle to 90 degree and light intensity to 1 when shooting the images used for extracting ground truths.
