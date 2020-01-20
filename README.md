@@ -1,7 +1,6 @@
 # Synthinel
 This is a repository for synthetic overhead imagery dataset - Synthinel.
-Our paper is now online. `"The Synthinel-1 dataset: a collection of high resolution synthetic overhead imagery for building segmentation"
-<https://arxiv.org/abs/2001.05130>`_.
+Our paper is now online. [link](https://arxiv.org/pdf/1802.04712.pdf)
 Please download the dataset here. https://drive.google.com/open?id=1T2fO-VLfyQoQdy5C4at_uHkP0KBRZkit
 <div align=center><img src="Externels/examples.gif" alt="examples" 
 align=center></div>
