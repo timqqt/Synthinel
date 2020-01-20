@@ -9,6 +9,8 @@ align=center></div>
 ## About Synthinel
 Synthinel is a collection of synthetic overhead imagery for building segmentation, with pixel-wise ground truth. The dataset is extracted from CityEngine.
 
+### Examples
+
 ### Dependencies
 
 The dependencies to run the codes are 
