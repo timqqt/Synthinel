@@ -13,11 +13,9 @@ align=center></div>
 <p align=center>
     <em>Fig 2. The automatic virtual city scene generation process.   </em>
 </p>
-## About Synthinel
-Synthinel is a collection of synthetic overhead imagery for building segmentation, with pixel-wise ground truth. The dataset is extracted from CityEngine.
 
 ### Examples
-<div align=center><img width="350" height="350" src="Externels/examples.png" alt="examples" 
+<div align=center><img width="700" height="350" src="Externels/examples2.png" alt="examples" 
 align=center></div>
 
 ### Dependencies
