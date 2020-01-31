@@ -15,7 +15,7 @@ align=center></div>
 </p>
 
 ### Examples
-<div align=center><img width="700" height="350" src="Externels/examples2.png" alt="examples" 
+<div align=center><img width="900" height="300" src="Externels/examples2.png" alt="examples" 
 align=center></div>
 
 ### Dependencies
