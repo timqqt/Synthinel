@@ -21,6 +21,15 @@ align=center></div>
     <em>Fig 3. Examples of caputured synthetic images in Synthinel.   </em>
 </p>
 
+### Our Experiments with Synthinel
+
+In our experiments, we used two avaliable real-world dataset, Inria and DeepGlobe, to demonstrate the effectiveness of our synthetic dataset for pixel-wise building extraction task. We split Inria and DeepGlobe datasets into two disjoint subsets, one for training and one for testing, as illustrated in Fig 4. 
+<div align=center><img width="600" height="400" src="Externels/dataset_split.png" alt="examples" 
+align=center></div>
+<p align=center>
+    <em>Fig 4. Illustration of data handling for all experiments.    </em>
+</p>
+
 ### Dependencies
 
 The dependencies to run the codes are 
