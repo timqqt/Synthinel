@@ -4,7 +4,7 @@ In this work we develop an approach to rapidly and cheaply generate large and di
 We summarized our work to paper "[The Synthinel-1 dataset: a collection of high resolution synthetic overhead imagery for building segmentation](https://arxiv.org/abs/2001.05130)" .
 
 
-Synthinel-1 is now publicly released. Please download the dataset here. https://drive.google.com/open?id=1T2fO-VLfyQoQdy5C4at_uHkP0KBRZkit
+Synthinel-1 is now publicly released. Please download the dataset [here](https://drive.google.com/open?id=1T2fO-VLfyQoQdy5C4at_uHkP0KBRZkit).
 <div align=center><img src="Externels/examples.gif" alt="examples" 
 align=center></div>
 
