@@ -1,8 +1,8 @@
-# Synthinel
-This is a repository for synthetic overhead imagery dataset - Synthinel.
-Our paper "[The Synthinel-1 dataset: a collection of high resolution synthetic overhead imagery for building segmentation](https://arxiv.org/abs/2001.05130)" about this dataset is now online. 
+# Overview
+In this work we develop an approach to rapidly and cheaply generate large and diverse synthetic overhead imagery for training segmentation CNNs with CityEngine.  Using this approach, we generate and release a collection of synthetic overhead imagery, termed Synthinel-1, with full pixel-wise building labels.  We use several benchmark datasets to demonstrate that Synthinel-1 is consistently beneficial when used to augment real-world training imagery, especially when CNNs are tested on novel geographic locations or conditions.  
+We summarized our work to paper "[The Synthinel-1 dataset: a collection of high resolution synthetic overhead imagery for building segmentation](https://arxiv.org/abs/2001.05130)" .
 
-Please download the dataset here. https://drive.google.com/open?id=1T2fO-VLfyQoQdy5C4at_uHkP0KBRZkit
+Synthinel-1 is now publicly released. Please download the dataset here. https://drive.google.com/open?id=1T2fO-VLfyQoQdy5C4at_uHkP0KBRZkit
 <div align=center><img src="Externels/examples.gif" alt="examples" 
 align=center></div>
 
