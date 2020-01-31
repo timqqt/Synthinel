@@ -1,6 +1,6 @@
 # Overview
 In this work we develop an approach to rapidly and cheaply generate large and diverse synthetic overhead imagery for training segmentation CNNs with CityEngine.  Using this approach, we generate and release a collection of synthetic overhead imagery, termed Synthinel-1, with full pixel-wise building labels.  We use several benchmark datasets to demonstrate that Synthinel-1 is consistently beneficial when used to augment real-world training imagery, especially when CNNs are tested on novel geographic locations or conditions.  <div align=center><img width="400" height="400" src="Externels/generate_img.png" alt="examples" align=center></div>
-<p>
+<p align=center>
     <em>Fig 1. </em>
 </p>
 
