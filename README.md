@@ -17,6 +17,9 @@ align=center></div>
 ### Examples
 <div align=center><img width="900" height="300" src="Externels/examples2.png" alt="examples" 
 align=center></div>
+<p align=center>
+    <em>Fig 3. Examples of caputured synthetic images in Synthinel.   </em>
+</p>
 
 ### Dependencies
 
