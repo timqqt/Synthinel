@@ -10,7 +10,9 @@ We summarized our work to paper "[The Synthinel-1 dataset: a collection of high 
 Synthinel-1 is now publicly released. Please download the dataset [here](https://drive.google.com/open?id=1T2fO-VLfyQoQdy5C4at_uHkP0KBRZkit).
 <div align=center><img width="550" height="400" src="Externels/examples.gif" alt="examples" 
 align=center></div>
-
+<p align=center>
+    <em>Fig 2. The automatic generation process of the virtual city scene.   </em>
+</p>
 ## About Synthinel
 Synthinel is a collection of synthetic overhead imagery for building segmentation, with pixel-wise ground truth. The dataset is extracted from CityEngine.
 
