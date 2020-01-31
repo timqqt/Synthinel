@@ -1,5 +1,5 @@
 # Overview
-In this work we develop an approach to rapidly and cheaply generate large and diverse synthetic overhead imagery for training segmentation CNNs with CityEngine.  Using this approach, we generate and release a collection of synthetic overhead imagery, termed Synthinel-1, with full pixel-wise building labels.  We use several benchmark datasets to demonstrate that Synthinel-1 is consistently beneficial when used to augment real-world training imagery, especially when CNNs are tested on novel geographic locations or conditions.  <div align=center><img width="400" height="400" src="Externels/generate_img.png" alt="examples" align=center></div>
+In this work we develop an approach to rapidly and cheaply generate large and diverse synthetic overhead imagery for training segmentation CNNs with CityEngine.  Using this approach, we generate and release a collection of synthetic overhead imagery, termed Synthinel-1, with full pixel-wise building labels.  We use several benchmark datasets to demonstrate that Synthinel-1 is consistently beneficial when used to augment real-world training imagery, especially when CNNs are tested on novel geographic locations or conditions.  <div align=center><img width="300" height="300" src="Externels/generate_img.png" alt="examples" align=center></div>
 <p align=center>
     <em>Fig 1. (a) Illustration of a virtual city and two perspectives of a virtual camera, set by the designer.  The corresponding images for each camera are shown in panels (b) and (c).  The camera settings in (c) are used to generate the dataset in this work.  In (d) we show the corresponding ground truth labels extracted for the image in (c).   </em>
 </p>
@@ -32,6 +32,9 @@ align=center></div>
 
 Then, we used two popular CNN models for image semantic segmentation, which are U-net and DeepLabV3. U-net is proposed in paper "U-Net: Convolutional Networks for Biomedical Image Segmentation" and DeepLabV3 is proposed in "Rethinking Atrous Convolution for Semantic Image Segmentation." For training, we have two schemes. For one scheme, we trained our networks only on real-world dataset. For the other, we trained the networks on real-world dataset jointly with synthetic dataset. Joinly training method is illustrated in our paper. For testing, we only tested our models on real-world datasets, Inria and DeepGlobe respectively. Specifically, we used the cross-domain testing to show the benefits of Synthinel. That is, for model trained on Inria, we tested it on DeepGlobe. For model trained on DeepGlobe, we tested it on Inria. The experiments decribed above is summarized in the following table,
 
+<p align=center>
+    <em>Table 1: Training and testing on different geographic locations. Results (intersection-over-union) of segmentation on popular building segmentation benchmark datasets.   </em>
+</p>
 <div align=center><img width="600" height="300" src="Externels/table.png" alt="examples" 
 align=center></div>
 
