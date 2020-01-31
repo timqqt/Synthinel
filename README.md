@@ -1,19 +1,19 @@
 # Overview
-In this work we develop an approach to rapidly and cheaply generate large and diverse synthetic overhead imagery for training segmentation CNNs with CityEngine.  Using this approach, we generate and release a collection of synthetic overhead imagery, termed Synthinel-1, with full pixel-wise building labels.  We use several benchmark datasets to demonstrate that Synthinel-1 is consistently beneficial when used to augment real-world training imagery, especially when CNNs are tested on novel geographic locations or conditions.  <div align=center><img width="150" height="150" src="Externels/generate_img.png" alt="examples" align=center></div>
+In this work we develop an approach to rapidly and cheaply generate large and diverse synthetic overhead imagery for training segmentation CNNs with CityEngine.  Using this approach, we generate and release a collection of synthetic overhead imagery, termed Synthinel-1, with full pixel-wise building labels.  We use several benchmark datasets to demonstrate that Synthinel-1 is consistently beneficial when used to augment real-world training imagery, especially when CNNs are tested on novel geographic locations or conditions.  <div align=center><img width="300" height="300" src="Externels/generate_img.png" alt="examples" align=center></div>
 
 
 We summarized our work to paper "[The Synthinel-1 dataset: a collection of high resolution synthetic overhead imagery for building segmentation](https://arxiv.org/abs/2001.05130)" .
 
 
 Synthinel-1 is now publicly released. Please download the dataset [here](https://drive.google.com/open?id=1T2fO-VLfyQoQdy5C4at_uHkP0KBRZkit).
-<div align=center><img src="Externels/examples.gif" alt="examples" 
+<div align=center><img width="450" height="300" src="Externels/examples.gif" alt="examples" 
 align=center></div>
 
 ## About Synthinel
 Synthinel is a collection of synthetic overhead imagery for building segmentation, with pixel-wise ground truth. The dataset is extracted from CityEngine.
 
 ### Examples
-<div align=center><img width="150" height="150" src="Externels/examples.png" alt="examples" 
+<div align=center><img width="300" height="300" src="Externels/examples.png" alt="examples" 
 align=center></div>
 
 ### Dependencies
