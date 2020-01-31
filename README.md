@@ -4,14 +4,14 @@ In this work we develop an approach to rapidly and cheaply generate large and di
     <em>Fig 1. (a) Illustration of a virtual city and two perspectives of a virtual camera, set by the designer.  The corresponding images for each camera are shown in panels (b) and (c).  The camera settings in (c) are used to generate the dataset in this work.  In (d) we show the corresponding ground truth labels extracted for the image in (c).   </em>
 </p>
 
-We summarized our work to paper "[The Synthinel-1 dataset: a collection of high resolution synthetic overhead imagery for building segmentation](https://arxiv.org/abs/2001.05130)" .
+We summarized our work in paper "[The Synthinel-1 dataset: a collection of high resolution synthetic overhead imagery for building segmentation](https://arxiv.org/abs/2001.05130)" .
 
 
 Synthinel-1 is now publicly released. Please download the dataset [here](https://drive.google.com/open?id=1T2fO-VLfyQoQdy5C4at_uHkP0KBRZkit).
 <div align=center><img width="550" height="400" src="Externels/examples.gif" alt="examples" 
 align=center></div>
 <p align=center>
-    <em>Fig 2. The automatic generation process of the virtual city scene.   </em>
+    <em>Fig 2. The automatic virtual city scene generation process.   </em>
 </p>
 ## About Synthinel
 Synthinel is a collection of synthetic overhead imagery for building segmentation, with pixel-wise ground truth. The dataset is extracted from CityEngine.
