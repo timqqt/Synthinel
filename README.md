@@ -8,14 +8,14 @@ We summarized our work in paper "[The Synthinel-1 dataset: a collection of high 
 
 
 Synthinel-1 is now publicly released. Please download the dataset [here](https://drive.google.com/open?id=1T2fO-VLfyQoQdy5C4at_uHkP0KBRZkit).
-<div align=center><img width="550" height="400" src="Externels/examples.gif" alt="examples" 
+<div align=center><img width="850" height="600" src="Externels/examples.gif" alt="examples" 
 align=center></div>
 <p align=center>
     <em>Fig 2. The automatic virtual city scene generation process.   </em>
 </p>
 
 ### Examples
-<div align=center><img width="900" height="300" src="Externels/examples2.png" alt="examples" 
+<div align=center><img width="900" height="270" src="Externels/examples2.png" alt="examples" 
 align=center></div>
 <p align=center>
     <em>Fig 3. Examples of caputured synthetic images in Synthinel.   </em>
