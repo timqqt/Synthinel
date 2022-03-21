@@ -52,11 +52,12 @@ Research
 
 If you find our work is helpful for your research, we would very appreciate if you cite our paper.
 
-    @inproceedings{synthinel2020,
-        title={The Synthinel-1 dataset: a collection of high resolution synthetic overhead imagery for building segmentation},
-        author={Fanjie Kong, Bohao Huang, Kyle Bradbury, Jordan Malof},
-        booktitle={2020 Winter Conference on Applications of Computer Vision (WACV)},
-        year={2020}
+    @inproceedings{kong2020synthinel,
+      title={The Synthinel-1 dataset: a collection of high resolution synthetic overhead imagery for building segmentation},
+      author={Kong, Fanjie and Huang, Bohao and Bradbury, Kyle and Malof, Jordan},
+      booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+      pages={1814--1823},
+      year={2020}
     }
     
     
